@@ -1,3 +1,5 @@
+This project is forked from [jiffyclub/html-css-resume-template](https://github.com/jiffyclub/html-css-resume-template).
+
 View the sample PDF at
 [resume_example.pdf](resume_example.pdf).
 
